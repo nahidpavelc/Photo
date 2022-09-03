@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bangla",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 2,
+    "name": "English",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 3,
+    "name": "Math",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 4,
+    "name": "Accounting",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 5,
+    "name": "Business",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 6,
+    "name": "Finance",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg?w=740&t=st=1662016239~exp=1662016839~hmac=f09e3c2c9e659963a13024e7ec0a72e1e11a8501e4ac04e7bb520c6f21e36b14",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  }
+]

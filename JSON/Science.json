@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bangla",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 2,
+    "name": "English",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 3,
+    "name": "Math",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 4,
+    "name": "Physics",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 5,
+    "name": "Chemistry",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  },
+  {
+    "id": 6,
+    "name": "Biology",
+    "img": "https://img.freepik.com/free-vector/learning-concept-illustration_114360-6186.jpg?w=740&t=st=1662016472~exp=1662017072~hmac=e1bb4ba4940d3ce297cf885b3e0db2154cd162146ea9e00005fe217214ac5125",
+    "total-quiz": "20",
+    "total-marks": "20",
+    "status": "Unfinished"
+  }
+]
